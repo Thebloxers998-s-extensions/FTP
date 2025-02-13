@@ -5,6 +5,7 @@
   "gamepad",
   "box2d",
   "files",
+  "ftp",
   "pointerlock",
   "cursor",
   "runtime-options",
